@@ -1,0 +1,13 @@
+{
+ "message": "Query Successful", 
+ "data": {
+  "title": "Bollywood", 
+  "technique": "BM25", 
+  "number": "3", 
+  "query": "ajay", 
+  "time": "Sun", 
+  "path": "Datasets/25/251826", 
+  "page": "1"
+ }, 
+ "success": true
+}
